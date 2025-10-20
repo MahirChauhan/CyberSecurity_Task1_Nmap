@@ -1,0 +1,9 @@
+
+ What is an open port?	A network port that accepts incoming connections.
+ How does Nmap perform TCP SYN scan?	It sends SYN packets and checks for SYN-ACK responses without completing the handshake.
+ Risks of open ports?	Unauthorized access, malware, or data breaches.
+ TCP vs UDP scan?	TCP is connection-based, UDP is connectionless.
+ How to secure open ports?	Close unused ports, use firewalls, apply access control.
+ Role of firewall?	Blocks or allows traffic on specific ports.
+ Why attackers perform port scans?	To find vulnerable services to exploit.
+ Wireshark’s role?	Captures network packets for analysis of scan traffic.
